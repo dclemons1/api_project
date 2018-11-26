@@ -1,0 +1,52 @@
+h1{
+    margin-top: 10%;
+    font-size: 50px;
+    color: white
+
+}
+.pokemondesign{
+
+    align-content: center;
+    margin-bottom: 36%
+}
+body{
+    text-align: center;
+    background-image: url(https://kidsbaron.com/wp-content/uploads/2016/07/13Styles-1Pcs-Pokeball-1pcs-Free-Random-Pokemon-Figures-Anime-Action-Figures-Toys-2.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    background-color: blue;
+    display: block;
+    margin: auto
+
+    
+
+}
+#pic{
+    height: 400px;
+    margin-bottom: 35%
+}
+#name{
+    font-size: 50px;
+    text-transform: uppercase;
+    color: red
+
+}
+#ability{
+    font-size: 30px
+}
+#height{
+    font-size: 30px
+
+}
+#width{
+    font-size: 30px
+
+}
+.card{
+    background-color: red
+
+}
+.container{
+    height: 100px;
+}
